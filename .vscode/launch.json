@@ -2,14 +2,21 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "IC_9c74ced"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/user/OneDrive - sga.pucminas.br/Área de Trabalho/Eng. Software - Puc Minas/GitHub/IC/Trabalho de Programação/C#",
+      "program": "c:/Users/user/OneDrive - sga.pucminas.br/Área de Trabalho/Eng. Software - Puc Minas/GitHub/IC/Trabalho de Programação/C#/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
