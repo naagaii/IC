@@ -1,3 +1,5 @@
+// um programa que calcula a média das notas de um aluno em uma disciplina
+
 import java.util.Scanner;
 
 public class Main {

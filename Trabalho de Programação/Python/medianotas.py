@@ -1,3 +1,5 @@
+// um programa que calcula a média das notas de um aluno em uma disciplina
+
 nota1 = float(input("Digite a primeira nota:"))
 nota2 = float(input("Digite a segunda nota:"))
 nota3 = float(input("Digite a terceira nota:"))
